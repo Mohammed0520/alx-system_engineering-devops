@@ -1,1 +1,2 @@
-my second readme
+Project
+0x00-shell_basics
